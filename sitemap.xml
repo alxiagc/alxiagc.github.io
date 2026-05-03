@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://alxiagc.github.io/about/</loc>
     <lastmod>2026-05-03T22:01:49+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://alxiagc.github.io/</loc>
     <lastmod>2026-05-03T22:01:49+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mysecondpage/</loc>
+    <loc>https://alxiagc.github.io/posts/mysecondpage/</loc>
     <lastmod>2026-05-03T20:00:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://alxiagc.github.io/posts/</loc>
     <lastmod>2026-05-03T20:00:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/myfirstpage/</loc>
+    <loc>https://alxiagc.github.io/posts/myfirstpage/</loc>
     <lastmod>2026-05-03T19:23:40+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://alxiagc.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://alxiagc.github.io/tags/</loc>
   </url>
 </urlset>
